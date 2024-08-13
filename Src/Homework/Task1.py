@@ -1,22 +1,3 @@
-#String Formatting
-print(3/2)
-
-num=3.14159265359
-formated_number=f"{num:.4f}"
-print(formated_number)
-
-num =90
-print("This is number "f"{num}")
-
-#Table of 2
-#2x1=2
-
-Tab=9
-print(f"{Tab}*1={Tab}")
-print(f"{Tab}*2={Tab*2}")
-print(f"{Tab}*3={Tab*3}")
-
-
 #Take a user input and create a table
 
 num=int(input("Enter your number"))
