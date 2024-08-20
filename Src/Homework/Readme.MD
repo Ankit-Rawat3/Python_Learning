@@ -66,7 +66,7 @@ if the number is multiple of both print "FizzBuzz"
 
 ### Task#9
 
--WAP to print number from 1 to 100.
+-WAP to find type of triangle.
 However , for multiples of 3, print "Fizz" instead of number, and for multiple of 5, print "BUZZ"
 if the number is multiple of both print "FizzBuzz"
 
