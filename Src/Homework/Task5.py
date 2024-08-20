@@ -10,8 +10,8 @@ print("Number1 is equal than number2:",num1==num2)
 """
 #or
 if(num1>num2):
-    print("Number 1 is greater")
-elif(num1<num2):
-    print("Number 1 is Smaller")
+    print(f"{num1} is greater than {num2}")
+elif num1<num2:
+    print(f"{num1} is smaller than {num2}")
 else:
-    print("Both numbers are equal")
+    print(f"{num1} is equal to {num2}")

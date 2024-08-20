@@ -38,7 +38,7 @@ Format your out with f{""}
 ### Task #6
 - Develop a Python script that calculates the square and cube of a given number.
 
--- 
+
 
 ### Task #7
 ✅ Leap Year Checker:
