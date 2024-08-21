@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28c57143-ba73-4d47-9660-03735e7c8d0e" name="Changes" comment="Adding new files">
-      <change afterPath="$PROJECT_DIR$/Src/Learning_20082024/lAB036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_17082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Src/Homework/Task9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Homework/Task9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab0017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab0017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab0018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab0018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab0019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab0019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab0020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab0020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab0021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab0021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab0022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab0022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab0023.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab0023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab0024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab0024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab005.PY.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab005.PY.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab006.py].py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab006.py].py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Lab025.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_17082024/Lab025.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +59,8 @@
     "Python.Lab033.executor": "Run",
     "Python.Lab034.executor": "Run",
     "Python.Lab035.executor": "Run",
+    "Python.PB1.executor": "Run",
+    "Python.PB2.executor": "Run",
     "Python.Task3.executor": "Run",
     "Python.Task5.executor": "Run",
     "Python.Task6.executor": "Run",
@@ -58,11 +74,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vikas\PycharmProjects\pythonlearning13082024\Src\Learning_17082024" />
       <recent name="C:\Users\vikas\PycharmProjects\pythonlearning13082024\Src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lAB036">
-    <configuration name="Task5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task9">
+    <configuration name="PB1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning13082024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Leetcode problem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Homework/Task5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Leetcode problem/PB1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PB2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning13082024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Leetcode problem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Homework/Task7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Leetcode problem/PB2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lAB036" />
         <item itemvalue="Python.Task9" />
+        <item itemvalue="Python.PB2" />
+        <item itemvalue="Python.PB1" />
+        <item itemvalue="Python.lAB036" />
         <item itemvalue="Python.Task8" />
-        <item itemvalue="Python.Task7" />
-        <item itemvalue="Python.Task5" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724123549831</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adding new files">
+      <option name="closed" value="true" />
+      <created>1724156300892</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724156300892</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
