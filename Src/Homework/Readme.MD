@@ -38,7 +38,7 @@ Format your out with f{""}
 ### Task #6
 - Develop a Python script that calculates the square and cube of a given number.
 
-
+-- 
 
 ### Task #7
 ✅ Leap Year Checker:
@@ -70,6 +70,20 @@ However, for multiples of 3, print "Fizz" instead of the number, and
 for multiples of 5, print "Buzz." 
 For numbers that are multiples of both 3 and 5, print "FizzBuzz."
 
+
+### Task #10 - 
+✅ Factorial 
+n = 5
+5! -->5*4*3*2*1 -> 120
+3! -> 3*2*1 -> 6
+4! -> 4*3*2*1 -> 24
+
+
+### Task #11 -
+✅ Fibonaci series
+0,0+1, 0+1+1,
+n = 7
+0, 1,1, 2, 3, 5, 8
 
 
 
