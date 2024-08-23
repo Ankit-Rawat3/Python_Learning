@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28c57143-ba73-4d47-9660-03735e7c8d0e" name="Changes" comment="Adding new files">
-      <change afterPath="$PROJECT_DIR$/Src/Homework/Task10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Homework/Task11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab051.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/Homework/Readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Homework/Readme.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/Learning_20082024/lAB036.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_20082024/LAB036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/Leetcode problem/PB7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Homework/Task11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Homework/Task11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Learning_22082024/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_22082024/Lab051.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -327,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724431782133</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Adding new files">
+      <option name="closed" value="true" />
+      <created>1724437318546</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724437318546</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
