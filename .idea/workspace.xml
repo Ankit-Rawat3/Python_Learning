@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28c57143-ba73-4d47-9660-03735e7c8d0e" name="Changes" comment="Adding new files">
-      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,81 +37,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab029.executor": "Run",
-    "Python.Lab030.executor": "Run",
-    "Python.Lab031.executor": "Run",
-    "Python.Lab032.executor": "Run",
-    "Python.Lab033.executor": "Run",
-    "Python.Lab034.executor": "Run",
-    "Python.Lab035.executor": "Run",
-    "Python.PB1.executor": "Run",
-    "Python.PB2.executor": "Run",
-    "Python.PB3.executor": "Run",
-    "Python.PB4.executor": "Run",
-    "Python.Task3.executor": "Run",
-    "Python.Task5.executor": "Run",
-    "Python.Task6.executor": "Run",
-    "Python.Task7.executor": "Run",
-    "Python.Task8.executor": "Run",
-    "Python.Task9.executor": "Run",
-    "Python.lAB036.executor": "Run",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "C:/Users/vikas/PycharmProjects/pythonlearning13082024"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PB1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PB2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PB3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PB4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PB5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PB6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lAB036.executor&quot;: &quot;Run&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vikas/PycharmProjects/pythonlearning13082024&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vikas\PycharmProjects\pythonlearning13082024\Src\Learning_17082024" />
       <recent name="C:\Users\vikas\PycharmProjects\pythonlearning13082024\Src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PB4">
-    <configuration name="PB1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonlearning13082024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Leetcode problem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Leetcode problem/PB1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PB2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonlearning13082024" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Leetcode problem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Leetcode problem/PB2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.PB6">
     <configuration name="PB3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning13082024" />
       <option name="ENV_FILES" value="" />
@@ -155,6 +114,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PB5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning13082024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Leetcode problem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Leetcode problem/PB5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PB6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning13082024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Leetcode problem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Leetcode problem/PB6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Task9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning13082024" />
       <option name="ENV_FILES" value="" />
@@ -179,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PB6" />
+        <item itemvalue="Python.PB5" />
         <item itemvalue="Python.PB4" />
         <item itemvalue="Python.PB3" />
         <item itemvalue="Python.Task9" />
-        <item itemvalue="Python.PB2" />
-        <item itemvalue="Python.PB1" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724242640286</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adding new files">
+      <option name="closed" value="true" />
+      <created>1724267009752</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724267009752</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
