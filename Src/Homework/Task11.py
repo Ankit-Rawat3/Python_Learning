@@ -1,10 +1,10 @@
 ### Task #11 -
 #✅ Fibonaci series
 
-num=int(input("Enter a number to create Fibonaci series : \n"))
+num=int(input("Enter a number to create Fibonacci series : \n"))
 series=[]
 a,b=0,1
-for i in range(num):
+for i in range(num+1):
     series.append(a)
     a, b = b, a + b
 
