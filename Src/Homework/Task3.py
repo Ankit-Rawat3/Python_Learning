@@ -1,4 +1,4 @@
-- Explain the difference between the = operator and the == operator in Python.
+"""- Explain the difference between the = operator and the == operator in Python.
 
 In Python, the `=` and `==` operators serve different purposes:
 
@@ -114,3 +114,5 @@ In Python, the `^` operator is used for **bitwise XOR (exclusive OR)** operation
 ### Summary
 - The `^` operator performs a bitwise XOR operation between two integers.
 - It’s used in contexts involving bit manipulation and binary data, rather than arithmetic operations like exponentiation.
+
+"""
