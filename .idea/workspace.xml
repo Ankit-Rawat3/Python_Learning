@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28c57143-ba73-4d47-9660-03735e7c8d0e" name="Changes" comment="Adding new files">
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_24082024/Lab063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/Pb9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/Homework/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Homework/Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Leetcode problem/PB7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +61,7 @@
     "Python.Lab049.executor": "Run",
     "Python.Lab050.executor": "Run",
     "Python.Lab051.executor": "Run",
+    "Python.Lab052.executor": "Run",
     "Python.Lab053.executor": "Run",
     "Python.Lab054.executor": "Run",
     "Python.Lab055.executor": "Run",
@@ -82,11 +74,15 @@
     "Python.Lab062.executor": "Run",
     "Python.Lab063.executor": "Run",
     "Python.PB1.executor": "Run",
+    "Python.PB10.executor": "Run",
     "Python.PB2.executor": "Run",
     "Python.PB3.executor": "Run",
     "Python.PB4.executor": "Run",
     "Python.PB5.executor": "Run",
     "Python.PB6.executor": "Run",
+    "Python.PB7.executor": "Run",
+    "Python.PB8.executor": "Run",
+    "Python.Pb9.executor": "Run",
     "Python.Task10.executor": "Run",
     "Python.Task11.executor": "Run",
     "Python.Task3.executor": "Run",
@@ -106,7 +102,7 @@
       <recent name="C:\Users\vikas\PycharmProjects\pythonlearning13082024\Src\Learning_17082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab052">
+  <component name="RunManager" selected="Python.PB10">
     <configuration name="Lab052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning13082024" />
       <option name="ENV_FILES" value="" />
@@ -129,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab060" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PB10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning13082024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Learning_24082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Leetcode problem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Learning_24082024/Lab060.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Leetcode problem/PB10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab061" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PB7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning13082024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Learning_24082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Leetcode problem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Learning_24082024/Lab061.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Leetcode problem/PB7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab062" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PB8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning13082024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Learning_24082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Leetcode problem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Learning_24082024/Lab062.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Leetcode problem/PB8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab063" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Pb9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning13082024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Learning_24082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Leetcode problem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Learning_24082024/Lab063.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Leetcode problem/Pb9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PB10" />
+        <item itemvalue="Python.Pb9" />
+        <item itemvalue="Python.PB8" />
+        <item itemvalue="Python.PB7" />
         <item itemvalue="Python.Lab052" />
-        <item itemvalue="Python.Lab063" />
-        <item itemvalue="Python.Lab062" />
-        <item itemvalue="Python.Lab061" />
-        <item itemvalue="Python.Lab060" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724438804373</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adding new files">
+      <option name="closed" value="true" />
+      <created>1724468428280</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724468428280</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
