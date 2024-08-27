@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28c57143-ba73-4d47-9660-03735e7c8d0e" name="Changes" comment="Adding new files">
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab068.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/Leetcode problem/PB13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="28c57143-ba73-4d47-9660-03735e7c8d0e" name="Changes" comment="Adding new files - 27 Aug">
+      <change beforePath="$PROJECT_DIR$/Src/Learning_27082024/Lab069.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_27082024/Lab069.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,8 +111,8 @@
       <recent name="C:\Users\vikas\PycharmProjects\pythonlearning13082024\Src\Learning_17082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab078">
-    <configuration name="Lab074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab069">
+    <configuration name="Lab069" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning13082024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Learning_27082024/Lab074.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Learning_27082024/Lab069.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab069" />
         <item itemvalue="Python.Lab078" />
         <item itemvalue="Python.Lab077" />
         <item itemvalue="Python.Lab076" />
         <item itemvalue="Python.Lab075" />
-        <item itemvalue="Python.Lab074" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724688737765</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Adding new files - 27 Aug">
+      <option name="closed" value="true" />
+      <created>1724727421818</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1724727421818</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -420,6 +410,7 @@
     <MESSAGE value="Completed the task" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Adding new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding new files" />
+    <MESSAGE value="Adding new files - 27 Aug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new files - 27 Aug" />
   </component>
 </project>
