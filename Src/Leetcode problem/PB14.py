@@ -28,4 +28,3 @@ s="  aaa aaaa   "
 print(s)
 
 print(s.strip().split(" "))
-Print(f)
